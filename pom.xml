@@ -164,7 +164,7 @@
 						</replacement>
 						<replacement>
 							<token>@description</token>
-							<value>${GIT_COMMIT}</value>
+							<value>commit ${GIT_COMMIT} from ${GIT_BRANCH} branch</value>
 						</replacement>
 					</replacements>
 				</configuration>
