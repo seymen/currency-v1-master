@@ -223,7 +223,7 @@
 							<goal>exec</goal>
 						</goals>
 						<configuration>
-                            <executable>mocha</executable>
+							<executable>./node_modules/mocha/bin/mocha</executable>
 							<commandlineArgs>
 								test/unit
 							</commandlineArgs>
