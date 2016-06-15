@@ -126,7 +126,7 @@
 									<filtering>true</filtering>
 									<includes>
 										<include>apiproxy/**</include>
-										<include>test/**</include>
+										<include>test/integration/**</include>
 									</includes>
 								</resource>
 							</resources>
