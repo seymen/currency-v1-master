@@ -204,7 +204,7 @@
 					<!-- npm install -->
 					<execution>
 						<id>npm-install</id>
-						<phase>compile</phase>
+						<phase>validate</phase>
 						<goals>
 							<goal>exec</goal>
 						</goals>
